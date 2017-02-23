@@ -14,6 +14,10 @@ body{
 	position: relative;
 	background-color: 97FF01;
 }
+#menu ul {
+	float: left;
+}
+
 #banner2 {
 	display: block;
 	background-color: #FF5A01;
