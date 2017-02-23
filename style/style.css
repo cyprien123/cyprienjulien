@@ -8,7 +8,12 @@ body{
 	height: 50px;
 	width: 100%;
 }
-
+#menu{
+	width: 100%;
+	height: 100px;
+	position: relative;
+	background-color: 97FF01;
+}
 #banner2 {
 	display: block;
 	background-color: #FF5A01;
