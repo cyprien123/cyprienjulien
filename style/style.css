@@ -12,15 +12,23 @@ body{
 	width: 100%;
 	height: 100px;
 	position: relative;
-	background-color: 97FF01;
+	background-color: FFBD50;
 }
 #menu ul {
 	float: left;
 }
+#menu ul li{
+	float: left;
+	list-style-type: none;
+	margin-left: 20px;
+}
+#menu ul li a {
+	texte-decoration: none;
+}
 
 #banner2 {
 	display: block;
-	background-color: #FF5A01;
+	background-color: #FFE401;
 	height: 50px;
 	width: 100%;
 }
