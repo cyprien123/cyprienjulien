@@ -1,3 +1,7 @@
+body{
+	margin: 0,
+}
+
 #banner1 {
 	display: block;
 	background-color: #FFE401;
