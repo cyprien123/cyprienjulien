@@ -6,12 +6,12 @@ body{
 	display: block;
 	background-color: #FFE401;
 	height: 50px;
-	width: 100px;
+	width: 100%;
 }
 
 #banner2 {
 	display: block;
 	background-color: #FF5A01;
 	height: 50px;
-	width: 100px;
+	width: 100%;
 }
