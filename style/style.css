@@ -23,8 +23,13 @@ body{
 	margin-left: 20px;
 }
 #menu ul li a {
-	texte-decoration: none;
-}
+	display:inline-box;
+	color: black;
+	text-decoration: none;
+	width: 100px;
+	height:30px;
+}	
+	
 
 #banner2 {
 	display: block;
