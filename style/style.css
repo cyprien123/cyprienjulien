@@ -2,12 +2,25 @@ body{
 	margin: 0,
 }
 
+#banner1 p{
+	text-align: center;
+	position: relative;
+	margin: 0;
+	font-weight: bold;
+	font-size: 20px;
+	top: 7px;
+	height: 50px;
+	width: 100%;
+}
+
 #banner1 {
 	display: block;
 	background-color: #FFE401;
 	height: 50px;
 	width: 100%;
+	margin: 0;
 }
+
 #menu{
 	min-width: 400px;
 	width: 100%;
@@ -65,7 +78,6 @@ body{
 	display: block;
 	background-color:FFE401;
 	height: 50px;
-
 }
 
 #footer p{
